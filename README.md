@@ -5,8 +5,8 @@
 <p style="font-size: 14px;">
   👋 I'm Enes, a computer science student at Virginia Commonwealth University
   <br>
-  🎓 I'm currently a senior, concurrently pursuing a master's degree.
-  <br>
+<!--   🎓 I'm currently a senior, concurrently pursuing a master's degree.
+  <br> -->
   🧠 My interests lie in web development, image processing and machine learning.
   <br>
   📧 Mail me! <a href="mailto: kalinsazlioef@vcu.edu">kalinsazlioef@vcu.edu</a>
